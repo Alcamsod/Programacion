@@ -57,6 +57,10 @@ En nuestro caso vamos a utilizar también el ***Framework*** Angular CLI. ¿Qué
 
 ``npm install -g @angular/cli``
 
+# 5️⃣ Librerías
+
+No siempre es necesario programar todo desde cero, existen lo que se llaman liberías que son paquetes de código que ha realizado otra persona y que resuelven ciertas tareas de manera que no siempre tengas que desde cero hacerlo tú. Por ejemplo, si queremos utilizar un cierto modelo o representar una gráfica, no tenemos que crear todo el código desde cero, usamos una libería que lo haga por nosotros, importando una función
+
 # 4️⃣ Creamos nuestros primeros scripts
 
 ✨ Vamos a programar
