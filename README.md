@@ -42,7 +42,7 @@ Conceptos clave:
 
 ---
 
-### Web scraping
+### Web scraping y APIs
 Aquí veremos cómo **extraer información de internet** con Python.  
 Aprenderemos a usar:
 - `requests` para descargar páginas.
